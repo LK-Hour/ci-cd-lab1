@@ -1,0 +1,8 @@
+node_modules/
+coverage/
+.env
+.yarn/*
+!.yarn/releases
+!.yarn/plugins
+.pnp.*
+*.log
